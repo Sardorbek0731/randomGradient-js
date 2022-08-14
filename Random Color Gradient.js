@@ -32,6 +32,7 @@ function getGradient() {
   return color;
 }
 
+
 function setGradient() {
   const color1 = getGradient();
   const color2 = getGradient();
